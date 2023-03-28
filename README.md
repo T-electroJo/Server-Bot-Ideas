@@ -7,3 +7,5 @@ This is the idea pin board, where everyone can edit the *Idea.txt*-file,<br>fork
 **After the idea has been programmed, it is of course marked with the author or authors.**
 
 Thank you!
+
+PS: I'm also looking for a suitable name! ;-)
