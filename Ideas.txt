@@ -1,1 +1,8 @@
+## Ideas
 
+- Music bot with built-in Radio and Spotify/YouTube player
+- AutoMod System
+    - Spam Detector
+    - Warning System
+- Some Funny Commands
+- Support Ticket System
